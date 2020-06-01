@@ -52,13 +52,8 @@ function App() {
   }
 
   async function getDevs() {
-    try {
-      const { data } = await api.get('/devs');
-      setDevs(data);
-
-    } catch (error) {
-      console.log(error);
-    }
+    const { data } = await api.get('/devs');
+    setDevs(data);
   }
 
   function renderDev() {
