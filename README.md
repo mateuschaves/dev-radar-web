@@ -1,7 +1,7 @@
 #  Dev radar Web
-:iphone:  Find programmers with the chosen stack near you
+:globe_with_meridians: Find programmers with the chosen stack near you
 
-<img src="https://i.ibb.co/4P734hC/Anota-o-2020-06-01-154233.png" width="250" height="500"/>
+<img src="https://i.ibb.co/4P734hC/Anota-o-2020-06-01-154233.png" />
  
 # Installation
 
